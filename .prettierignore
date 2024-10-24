@@ -1,0 +1,14 @@
+node_modules
+dist
+.babelrc
+.eslintrc
+.prettierrc
+.gitignore
+package.json
+package-lock.json
+yarn-lock.json
+postcss.config.js
+README.md
+tailwind.config.js
+tsconfig.json
+rollup.config.mjs
