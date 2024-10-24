@@ -76,7 +76,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALLWAYSYASHWANTH/demo-react-shared-components.git"
+    "url": "git+https://github.com/ALLWAYSYASHWANTH/DemoReactSharedComponents.git"
   },
   "dependencies": {
     "npm": "^10.9.0"
